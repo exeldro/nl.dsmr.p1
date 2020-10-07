@@ -1,0 +1,8 @@
+{
+    "type": "number",
+    "decimals": 1,
+    "title": { "en": "Gas flow", "nl": "Gasstroom" },
+    "units": { "en": "l/h" },
+    "getable": true,
+    "setable": false
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nl.dsmr.p1",
+  "version": "0.2.0",
+  "main": "app.js",
+  "devDependencies": {
+    "homey": "^2.8.0"
+  },
+  "dependencies": {
+    "dsmr-parser": "^2.1.1"
+  }
+}

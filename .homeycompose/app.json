@@ -1,0 +1,24 @@
+{
+  "id": "nl.dsmr.p1",
+  "version": "0.2.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "name": {
+    "en": "Dutch Smart Meter"
+  },
+  "description": {
+    "en": "Read the power and gas values of your Dutch Smart Meter."
+  },
+  "category": [
+    "energy"
+  ],
+  "permissions": [],
+  "images": {
+    "large": "/assets/images/large.png",
+    "small": "/assets/images/small.png"
+  },
+  "author": {
+    "name": "Exeldro",
+    "email": "exelsor@hotmail.com"
+  }
+}
